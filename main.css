@@ -1,0 +1,36 @@
+#gz-contents {
+    display: inline;
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+#brackets-crosscalc-icon {
+    background-image: url('images/crosscalc.svg');
+}
+
+#brackets-crosscalc-icon.active {
+    background-image: url('images/crosscalc-active.svg');
+}
+
+#gz-contents table td {
+
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#gz-contents table td input {
+
+    position: relative;
+    top: 5px;
+}
+
+#gz-contents table td .width-height {
+    top: 2.5px;
+    width: 100px;
+}
+
+#gz-contents table td .gz-line {
+    padding: 30px;
+}
