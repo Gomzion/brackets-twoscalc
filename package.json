@@ -1,12 +1,18 @@
 {
-    "name": "com.example.{ext_name}",
-    "title": "{ext_name}",
-    "description": "",
-    "homepage": "", // URL for your project
-    "version": "1.0.0",
-    "author": "",
+    "name": "brackets-twoscalc",
+    "title": "TwosCalc",
+    "description": "Target width ratio calculator extension for Adobe Brackets.",
+    "homepage": "https://github.com/gomzion/brackets-twoscalc",
+    "version": "0.0.3",
+    "author": "Albert Kim",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.20.0"
-    }
+    },
+    "keywords": [
+        "width",
+        "ratio",
+        "percentage",
+        "calculator"
+    ]
 }
